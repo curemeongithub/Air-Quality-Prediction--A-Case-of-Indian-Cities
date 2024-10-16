@@ -1,4 +1,0 @@
-The dataset used for this project can be downloaded from the following link: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india?select=city_day.csv
-
-This dataset contains Air Quality Data of Indian Cities from 2015 to 2020 in the format of city/station-wise hourly/daily data including a file containing the details of all stations. This data was collected by the Central Pollution Control Board: https://cpcb.nic.in/ which is the official portal of Government of India
-
